@@ -1,0 +1,6 @@
+1 = ITEM
+2 = BLOCK
+3 = FOOD
+4 = FLUID
+5 = TROWABLE
+6 = EQUIP
