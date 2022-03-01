@@ -13,3 +13,6 @@ public class player {
     public int Ybox = 8;
 
 }
+class playerY{
+    //hellow
+}
